@@ -1,0 +1,17 @@
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\bin\Debug\net6.0-windows\задание 24 бл схемы.exe
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\bin\Debug\net6.0-windows\задание 24 бл схемы.deps.json
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\bin\Debug\net6.0-windows\задание 24 бл схемы.runtimeconfig.json
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\bin\Debug\net6.0-windows\задание 24 бл схемы.dll
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\bin\Debug\net6.0-windows\задание 24 бл схемы.pdb
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание_24_бл_схемы.Form1.resources
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.csproj.GenerateResource.cache
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.AssemblyInfo.cs
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.dll
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\refint\задание 24 бл схемы.dll
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.pdb
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\задание 24 бл схемы.genruntimeconfig.cache
+C:\Users\Hi-tech\source\repos\задание 24 бл схемы\задание 24 бл схемы\obj\Debug\net6.0-windows\ref\задание 24 бл схемы.dll
